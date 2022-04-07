@@ -1,0 +1,29 @@
+body {
+    text-align: center;    
+}
+
+#game-container {    
+    max-width: 900px;
+    background-color: antiquewhite;
+}
+
+#instructions {    
+    max-width: 350px;
+    background-color: bisque;
+}
+
+#game-cards {    
+    max-width: 900px;
+    background-color: beige;
+}
+
+.card-cols {
+    display: inline-block;
+    font-size: 50px;
+    padding: 20px;
+    background-color: aquamarine;
+    margin: 5px;
+    width: 50px;
+}
+
+.card-lines {}
