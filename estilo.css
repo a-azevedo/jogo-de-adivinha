@@ -24,6 +24,7 @@ body {
     background-color: aquamarine;
     margin: 5px;
     width: 50px;
+    cursor: pointer;
 }
 
 .card-lines {}
